@@ -1,22 +1,30 @@
 .home-bg {
   height: 100vh;
   background-color: #183b56;
+  padding: 2rem;
 }
 .header-bg {
   display: flex;
   justify-content: space-between;
 }
 .logo {
-  height: 100px;
+  height: 50px;
+}
+.white-heading {
+  color: #ffffff;
 }
 .logout-button {
   background-color: transparent;
   border: 1px solid #ffffff;
   color: white;
+  height: 2rem;
 }
 .home-body {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.card-img {
+  width: 60%;
 }
