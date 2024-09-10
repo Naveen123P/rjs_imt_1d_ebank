@@ -1,0 +1,22 @@
+.home-bg {
+  height: 100vh;
+  background-color: #183b56;
+}
+.header-bg {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 100px;
+}
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: white;
+}
+.home-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
